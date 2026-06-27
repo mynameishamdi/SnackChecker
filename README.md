@@ -84,7 +84,7 @@ The default model classifies snacks into 6 broad Malaysian categories:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/SnackChecker.git
+git clone https://github.com/mynameishamdi/SnackChecker.git
 cd SnackChecker
 
 # 2. Create and activate a virtual environment
