@@ -95,11 +95,7 @@ venv\Scripts\activate        # Windows
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Set up your API key
-cp config.example.py config.py
-# Open config.py and paste your Gemini API key
-
-# 5. Run
+# 4. Run the app
 python app.py
 ```
 
