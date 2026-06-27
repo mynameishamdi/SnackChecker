@@ -109,10 +109,7 @@ The app works without an API key — it falls back to built-in content. But for 
 2. Sign in with a Google account
 3. Click **Create API key** → select or create a project
 4. Copy the key (starts with `AIza...`)
-5. Paste it into `config.py`:
-   ```python
-   GEMINI_API_KEY = "AIza..."
-   ```
+5. Paste it into the popup box the first time you run the application!
 
 > **Free tier limits:** 1,500 requests/day and 1 million tokens/day — more than enough for this app.
 > After each snack is scanned once, the result is cached locally and the API is never called again for that snack.
