@@ -1,0 +1,6 @@
+0 background
+1 instant_noodles
+2 chips
+3 chocolate
+4 biscuits
+5 instant_drink

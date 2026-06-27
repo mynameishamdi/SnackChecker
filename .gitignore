@@ -1,0 +1,28 @@
+# ── Secrets — NEVER commit these ────────────────────────────────────────────
+config.py
+settings.json
+snackchecker_settings.json
+
+# ── Cache — generated at runtime ────────────────────────────────────────────
+cache/*.json
+
+# ── Dataset images — too large for git ──────────────────────────────────────
+dataset/
+
+# ── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+
+# ── PyInstaller output ───────────────────────────────────────────────────────
+build/
+dist/
+*.spec
+
+# ── OS files ─────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db

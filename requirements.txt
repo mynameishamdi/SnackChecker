@@ -1,0 +1,16 @@
+# Core UI
+customtkinter>=5.2.0
+Pillow>=10.0.0
+
+# Computer vision & webcam
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Machine learning
+tensorflow-cpu==2.15.0
+
+# Gemini AI (new SDK — replaces deprecated google-generativeai)
+google-genai>=0.8.0
+
+# Packaging (dev only)
+pyinstaller>=6.0.0
